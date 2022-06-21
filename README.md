@@ -1,5 +1,5 @@
 # AssettoServer Community Releases
-AI Spline and Teleport locations for various track posted on the AssettoServer Development Discord compiled in one place.
+AI Spline and Teleport locations for various track posted on the AssettoServer Development [Discord](https://discord.gg/uXEXRcSkyz) compiled in one place.
 
 ## Ai Splines and Teleport Locations provided by:
 - Drewbokman#6994 (SRP Tatsumi PA TP Locations)
