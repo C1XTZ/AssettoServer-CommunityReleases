@@ -6,6 +6,8 @@ AI Spline and Teleport locations for various track posted on the AssettoServer D
 - Drewbokman#6994 (SRP Tatsumi PA TP Locations)
 - plot3sale#7979 (Kunos Norschleife Ai Spline)
 - guilleRATSTYLE#8196 (Provence Alps, Kameishi Touge Ai Splines)
+- srinoob#8671 (Osaka, Fonteny, Nsuka Naruto Skyline, Sterkfonteindam Ai Spline & TP Locations, SRP Hotlap Timing TP Locations)
+- VictorC#5503 (Sterkfonteindam Ai Spline & TP Locations)
 - Langloush (EK Touges & Sakanotsuji Ai Splines)
 - eazy#7403 (Happogahara & Irohazaka Ai Splines)
 - JonnyBravo#0514 (FDR Drive TP Locations)
