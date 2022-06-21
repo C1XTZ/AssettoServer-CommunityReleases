@@ -2,9 +2,11 @@
 AI Spline and Teleport locations for various track posted on the AssettoServer Development [Discord](https://discord.gg/uXEXRcSkyz) compiled in one place.
 
 ## Ai Splines and Teleport Locations provided by:
+- pantsu#5716 (Official SRP TP Locations)
 - Drewbokman#6994 (SRP Tatsumi PA TP Locations)
 - plot3sale#7979 (Kunos Norschleife Ai Spline)
 - Langloush (EK Touges & Sakanotsuji Ai Splines)
+- eazy#7403 (Happogahara & Irohazaka Ai Splines)
 - JonnyBravo#0514 (FDR Drive TP Locations)
 
 ## How to Download this Repository
