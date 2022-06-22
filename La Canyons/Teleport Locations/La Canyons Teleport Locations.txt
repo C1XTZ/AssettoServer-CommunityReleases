@@ -1,0 +1,170 @@
+[TELEPORT_DESTINATIONS]
+POINT_0 = Main Pits
+POINT_0_GROUP = Main Ring
+POINT_0_POS = -326.06, 161.18, -2926.84
+POINT_0_HEADING = 0
+
+POINT_1 = La Canada City         
+POINT_1_GROUP = La Canada (VIP)
+POINT_1_POS = 7514, -663.32, -7686.59
+POINT_1_HEADING = 0
+
+POINT_2 = La Canada Junction       
+POINT_2_GROUP = Main Ring
+POINT_2_POS = 3424, -66.57, -2032.38
+POINT_2_HEADING = 0
+
+POINT_3 = Mountain Lawlor Bottom       
+POINT_3_GROUP = Main Ring
+POINT_3_POS = -6529.22, 222.66, -1700.58
+POINT_3_HEADING = 0
+
+POINT_4 = Mountain Lawlor Top       
+POINT_4_GROUP = Main Ring
+POINT_4_POS = -3433.84, 514.13, -1154.03
+POINT_4_HEADING = 0
+
+POINT_5 = Big Tujunga Overlook      
+POINT_5_GROUP = Tujunga Rd (VIP)
+POINT_5_POS = 5882.82, -354.27, 668.6
+POINT_5_HEADING = 0
+
+POINT_6 = Tujunga Rd End     
+POINT_6_GROUP = Tujunga Rd (VIP)
+POINT_6_POS = 14342.67, -663.99, 1229.65
+POINT_6_HEADING = 0
+
+POINT_7 = Tujunga Dam       
+POINT_7_GROUP = Tujunga Rd (VIP)
+POINT_7_POS = 6591.83, -473.25, 492.35
+POINT_7_HEADING = 0
+
+POINT_8 = Big Tujunga Station       
+POINT_8_GROUP = Tujunga Rd (VIP)
+POINT_8_POS = 9853.77, -616.23, -380.18
+POINT_8_HEADING = 0
+
+POINT_9 = Yokai's house      
+POINT_9_GROUP = Tujunga Rd (VIP)
+POINT_9_POS = 10491.99, -561.96, 181.24
+POINT_9_HEADING = 0
+
+POINT_10 = Wild Wood Picnic       
+POINT_10_GROUP = Tujunga Rd (VIP)
+POINT_10_POS = 11287, -635.89, 612.53
+POINT_10_HEADING = 0
+
+POINT_11 = Hidden Springs Picnic       
+POINT_11_GROUP = Main Ring
+POINT_11_POS = 1857.39, -253.85, 3019.23
+POINT_11_HEADING = 0
+
+POINT_12 = Your Mom's house (VIP)       
+POINT_12_GROUP = Tujunga Rd (VIP)
+POINT_12_POS = 13730.4, -669.26, 1368.86
+POINT_12_HEADING = 0
+
+POINT_13 = Monte Cristo Station       
+POINT_13_GROUP = Main Ring
+POINT_13_POS = 676.48, -152.34, 4417.67
+POINT_13_HEADING = 0
+
+POINT_14 = Angeles Forest End       
+POINT_14_GROUP = Angeles Forest HWY (VIP)
+POINT_14_POS = -1303.93, 88.72, 9573.7
+POINT_14_HEADING = 0
+
+POINT_15 = Newcombs Ranch       
+POINT_15_GROUP = Angeles Crest (Ranch - VIP)
+POINT_15_POS = -10523.79, 445.8, 4668.65
+POINT_15_HEADING = 0
+
+POINT_16 = RedBox (Upper Pits)       
+POINT_16_GROUP = Main Ring
+POINT_16_POS = -970.26, 232.57, -3349.98
+POINT_16_HEADING = 0
+
+POINT_17 = Mountain Disappointment       
+POINT_17_GROUP = Mountain Wilson (VIP)
+POINT_17_POS = -1024.64, 634.89, -4659.82
+POINT_17_HEADING = 0
+
+POINT_18 = Top       
+POINT_18_GROUP = Mountain Wilson (VIP)
+POINT_18_POS = -4895.78, 544.08, -7289.5
+POINT_18_HEADING = 0
+
+POINT_19 = Tutter's Toilet       
+POINT_19_GROUP = Main Ring
+POINT_19_POS = 126.99, -167.49, 2578.6
+POINT_19_HEADING = 0
+
+POINT_20 = High Speeds Straight       
+POINT_20_GROUP = Main Ring
+POINT_20_POS = -2120.86, -160.42, 2487.34
+POINT_20_HEADING = 0
+
+POINT_21 = E.T. Home       
+POINT_21_GROUP = Main Ring
+POINT_21_POS = -7397.28, 144.48, -1338.66
+POINT_21_HEADING = 0
+
+POINT_22 = Parking Shoulder 1       
+POINT_22_GROUP = Main Ring
+POINT_22_POS = -5339.88, -53.48, 1004.99
+POINT_22_HEADING = 0
+
+POINT_23 = Parking Shoulder 1       
+POINT_23_GROUP = La Canada (VIP)
+POINT_23_POS = 6121.88, -179.46, -2600.53
+POINT_23_HEADING = 0
+
+POINT_24 = Parking Shoulder 2       
+POINT_24_GROUP = La Canada (VIP)
+POINT_24_POS = 6997.34, -270.53, -3100.5
+POINT_24_HEADING = 0
+
+POINT_25 = Parking Shoulder 3       
+POINT_25_GROUP = La Canada (VIP)
+POINT_25_POS = 6979.48, -381.62, -4544
+POINT_25_HEADING = 0
+
+POINT_26 = Parking Shoulder 4       
+POINT_26_GROUP = La Canada (VIP)
+POINT_26_POS = 6218.24, -488.91, -6063.07
+POINT_26_HEADING = 0
+
+POINT_27 = Tujunga Rd Junction       
+POINT_27_GROUP = Main Ring
+POINT_27_POS = 4268.73, -197.04, 975.27
+POINT_27_HEADING = 0
+
+POINT_28 = Bridge       
+POINT_28_GROUP = Tujunga Rd (VIP)
+POINT_28_POS = 7307.33, -509.51, -605.6
+POINT_28_HEADING = 0
+
+POINT_29 = Angeles Forest HWY Gate       
+POINT_29_GROUP = Angeles Forest HWY (VIP)
+POINT_29_POS = -32.11, -139.96, 4864.18
+POINT_29_HEADING = 0
+
+POINT_30 = Parking Shoulder 1       
+POINT_30_GROUP = Angeles Crest (Ranch - VIP)
+POINT_30_POS = -10301.76, 333.11, -878.22
+POINT_30_HEADING = 0
+
+POINT_31 = Parking Shoulder 2       
+POINT_31_GROUP = Angeles Crest (Ranch - VIP)
+POINT_31_POS = -10223.34, 466.12, 1091.98
+POINT_31_HEADING = 0
+
+POINT_32 = Warehouse       
+POINT_32_GROUP = Angeles Crest (Ranch - VIP)
+POINT_32_POS = -9911.72, 430.7, 3135.58
+POINT_32_HEADING = 0
+
+POINT_33 = Parking Shoulder 1       
+POINT_33_GROUP = Mountain Wilson (VIP)
+POINT_33_POS = -2084.85, 378.59, -5421.51
+POINT_33_HEADING = 0

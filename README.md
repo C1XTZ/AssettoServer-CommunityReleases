@@ -11,6 +11,7 @@ AI Spline and Teleport locations for various track posted on the AssettoServer D
 - Langloush (EK Touges & Sakanotsuji Ai Splines)
 - eazy#7403 (Happogahara & Irohazaka Ai Splines)
 - JonnyBravo#0514 (FDR Drive TP Locations)
+- MAX RNG#3625 (LA Canyons TP Locations)
 
 ## How to Download this Repository
 [![button](https://img.shields.io/github/repo-size/c1xtz/AssettoServer-CommunityReleases?color=black&labelColor=white&label=Download&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBkPSJNNC45NyAxMS4wM2EuNzUuNzUgMCAxMTEuMDYtMS4wNkwxMSAxNC45NFYyLjc1YS43NS43NSAwIDAxMS41IDB2MTIuMTlsNC45Ny00Ljk3YS43NS43NSAwIDExMS4wNiAxLjA2bC02LjI1IDYuMjVhLjc1Ljc1IDAgMDEtMS4wNiAwbC02LjI1LTYuMjV6bS0uMjIgOS40N2EuNzUuNzUgMCAwMDAgMS41aDE0LjVhLjc1Ljc1IDAgMDAwLTEuNUg0Ljc1eiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&style=for-the-badge)](https://github.com/C1XTZ/AssettoServer-CommunityReleases/archive/refs/heads/master.zip "Download ZIP")
