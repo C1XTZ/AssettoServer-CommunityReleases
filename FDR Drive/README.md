@@ -1,6 +1,6 @@
 # FDR Drive
 ### Ai Spline 
-No spline posted publicly on Discord yet
+Made by srinoob#8671
 
 ### Teleport Locations
 Made by JonnyBravo#0514

@@ -1,5 +1,6 @@
 # Shutoko Revival Project
 ### Ai Spline
+Made by Gunja and compu#6414
 
 ### Teleport Locations
 Official SRP Locations provided by pantsu#5716  
