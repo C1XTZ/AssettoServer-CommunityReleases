@@ -29,5 +29,5 @@ See track READMEs for track specific credits.
 | ![Update](https://user-images.githubusercontent.com/90503800/138611389-dfbdcadc-48e2-4d20-8e1b-2b72b511f338.png) |
 
 ## How to:
-- **[Install a AI Spline](https://github.com/C1XTZ/AssettoServer-CommunityReleases/wiki/Installing-a-AI-Spline)**
+- **[Install a AI Spline](https://assettoserver.org/docs/intro#ai-traffic)**
 - **[Enable Teleportation](https://github.com/C1XTZ/AssettoServer-CommunityReleases/wiki/Enabling-CSP-Extra-Server-Options#enabling-teleportation)**
