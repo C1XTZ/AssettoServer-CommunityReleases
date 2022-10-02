@@ -13,6 +13,7 @@ AI Spline and Teleport locations for various track posted on the AssettoServer D
 - eazy#7403
 - JonnyBravo#0514
 - alissonwk#7682
+- loqqq#9674
 
 See track READMEs for track specific credits.
 
