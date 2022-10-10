@@ -1,6 +1,4 @@
 # FDR Drive
-### Ai Spline 
-Made by srinoob#8671
 
 ### Teleport Locations
 Made by JonnyBravo#0514
