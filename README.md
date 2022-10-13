@@ -31,4 +31,4 @@ See track READMEs for track specific credits.
 
 ## How to:
 - **[Install a AI Spline](https://assettoserver.org/docs/intro#ai-traffic)**
-- **[Enable Teleportation](https://github.com/C1XTZ/AssettoServer-CommunityReleases/wiki/Enabling-CSP-Extra-Server-Options#enabling-teleportation)**
+- **[Enable Teleportation](https://assettoserver.org/docs/faq#how-do-i-enable-teleportation)**
