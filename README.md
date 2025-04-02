@@ -1,5 +1,10 @@
 # AssettoServer Community Releases
-AI Spline and Teleport locations for various track posted on the AssettoServer Development [Discord](https://discord.gg/uXEXRcSkyz) compiled in one place.
+
+> [!IMPORTANT]
+> This repository has been archived and should be considered outdated.  
+> It is likely that new/updated AI splines are available online or on the [AssettoServer Discord](https://discord.gg/uXEXRcSkyz)
+
+AI Spline and Teleport locations for various track posted on the AssettoServer Development Discord compiled in one place.
 
 ## Ai Splines and Teleport Locations provided by:
 - compu#6414
